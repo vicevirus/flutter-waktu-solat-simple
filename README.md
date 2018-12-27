@@ -1,6 +1,6 @@
-# hello_world
+# Flutter waktu solat simple
 
-A new Flutter project.
+Menggunakan api dari https://api.azanpro.com
 
 ## Getting Started
 
