@@ -1,4 +1,4 @@
-# Flutter waktu solat simple
+# Flutter waktu solat seremban/rembau/pd simple
 
 Menggunakan api dari https://api.azanpro.com
 
